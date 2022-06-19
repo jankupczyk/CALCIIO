@@ -28,6 +28,7 @@ Additionally, # OTHER # offers:
   ./CALCIIO.sh
 
 3) The following options are available in the scripts line:
+
 -H = CALCIIO tutorial
 
 -d = Debug mode
