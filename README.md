@@ -29,9 +29,9 @@ Additionally, # OTHER # offers:
 
 3) The following options are available in the scripts line:
 
--H = CALCIIO tutorial
+    -H = CALCIIO tutorial
 
--d = Debug mode
+    -d = Debug mode
 
--v = Verbose mode (only for development!)
+    -v = Verbose mode (only for development!)
 
