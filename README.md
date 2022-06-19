@@ -24,8 +24,11 @@ The # SCIENTIFIC # option offers:
 Additionally, # OTHER # offers:
 -Exit (exit)
 
+
 2) The script should be run by typing:
-  ./CALCIIO.sh
+
+    ./CALCIIO.sh
+
 
 3) The following options are available in the scripts line:
 
